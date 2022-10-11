@@ -19,15 +19,15 @@ Clone the repository to your local machine and open the index.js on your Termina
 
 ## Usage
 
-[Deployed Site Repository](https://github.com/andresilva8624/Html-Generator)
+[Deployed Site Repository](https://github.com/andresilva8624/Employee-Tracker)
 
-[Deployed Site Web](https://andresilva8624.github.io/Html-Generator/)
+[Deployed Site Web](https://andresilva8624.github.io/Employee-Tracker/)
 
 ![gif of deployed site](/assets/images/website.gif)
 
 ## Credits
 
-Thank you to [Sabrina Hanson](https://www.github.com/sabhanson) for helping me with this assignment
+Thank you to [Sabrina Hanson](https://www.github.com/sabhanson), our instructor Diarmuid and all the TA's for helping me with this assignment
 
 ## License
 
