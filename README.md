@@ -3,18 +3,19 @@
 
 ![Badge](https://img.shields.io/badge/AndreGitHub-MIT-green.svg)
 
-The goal is to create a Employee Tracker with MySQL. Enjoy! 😀
+The App is an Employee Tracker done with MySQL. You can view all the employees by their full name, title, department, what's their salary and if they have a manager or not and who that manager is. It gives you the option to navigate through each department and also to edit the employees, the roles, the deparments, the salary by removing them, adding them or updating. Enjoy! 😀
 
-[Demonstrational Video Link](https://drive.google.com/file/d/19v3ayAX6MOGLqCADt8jl1YUmlOnr-eD0/view)
+[Demonstrational Video Link](https://drive.google.com/file/d/1QMLxR7foUAEvVGwY6-goPx-G2NKuVWsD/view)
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Contact](#contact)
 
 ## Installation
 
-Clone the repository to your local machine and open the index.html file in your browser
+Clone the repository to your local machine and open the index.js on your Terminal with Node.js
 
 ## Usage
 
